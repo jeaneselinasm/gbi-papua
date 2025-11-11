@@ -1,0 +1,183 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Papua Province – Churches & Regencies Map</title>
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.css" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet.markercluster@1.5.3/dist/MarkerCluster.Default.css" />
+  <style>
+    html, body, #map { height: 100%; margin: 0; }
+ .sidebar {
+      position: fixed;
+      left: 0;
+      top: 0;
+      bottom: 0;
+      z-index: 1000;
+      background: #ffffff;
+      padding: 16px 16px 20px;
+      width: 320px;
+      overflow-y: auto;
+      box-shadow: 0 0 20px rgba(0,0,0,0.15);
+      font-family: system-ui, sans-serif;
+      font-size: 14px;
+      border-radius: 0; /* full height, flush edges */
+    }
+    #map { margin-left: 280px; }
+    .legend {
+     position:absolute; right:12px; bottom:12px; z-index:1000;
+      background: rgba(255,255,255,.95); padding:10px 12px; border-radius:12px; box-shadow: 0 8px 24px rgba(0,0,0,.12);
+      font: 12px system-ui, -apple-system, Segoe UI, Roboto, Arial, sans-serif; color:#222;
+    }
+    .legend i {
+      width: 14px;
+      height: 14px;
+      float: left;
+      margin-right: 6px;
+      opacity: 0.7;
+    }
+  </style>
+</head>
+<body>
+  <div class="sidebar">
+    <h3>Papua Province Data</h3>
+    <div id="churchStats">
+      <p><strong>Total Churches:</strong> <span id="totalChurches">0</span></p>
+      <h4>By City</h4>
+      <ul id="cityList"></ul>
+      <h4>By District</h4>
+      <ul id="districtList"></ul>
+    </div>
+  </div>
+  <div id="map"></div>
+  <div class="legend" id="legend"></div>
+
+  <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+  <script src="https://unpkg.com/leaflet.markercluster@1.5.3/dist/leaflet.markercluster.js"></script>
+  <script>
+    const map = L.map('map').setView([-2.5, 137.5], 6);
+
+    const osm = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+      maxZoom: 19,
+      attribution: '&copy; OpenStreetMap contributors'
+    }).addTo(map);
+
+    const baseLayers = { 'OpenStreetMap': osm };
+
+    // --- Regency Layers ---
+    const regencies = [
+      { key: 'Kota Jayapura', file: 'data/kota_jayapura.geojson', color: '#1b9e77' },
+      { key: 'Keerom', file: 'data/keerom.geojson', color: '#7570b3' },
+      { key: 'Sarmi', file: 'data/sarmi.geojson', color: '#596ee7' },
+      { key: 'Mamberamo Raya', file: 'data/mamberamo_raya.geojson', color: '#ff0000', noChurch: true },
+      { key: 'Waropen', file: 'data/waropen.geojson', color: '#ff3333', noChurch: true },
+      { key: 'Nabire', file: 'data/nabire.geojson', color: '#66a61e' },
+      { key: 'Biak Numfor', file: 'data/biak_numfor.geojson', color: '#ff4c4c', noChurch: true },
+      { key: 'Supiori', file: 'data/supiori.geojson', color: '#ff6666', noChurch: true },
+      { key: 'Kepulauan Yapen', file: 'data/kepulauan_yapen.geojson', color: '#ff8080', noChurch: true },
+      { key: 'Kabupaten Jayapura',         file: 'data/kab_jayapura.geojson',         color: '#e2d953' },
+
+    ];
+
+    const overlays = {};
+
+    function regencyStyle(r) {
+      return {
+        color: r.color,
+        weight: 1.5,
+        opacity: 1,
+        fillColor: r.color,
+        fillOpacity: r.noChurch ? 0.6 : 0.25
+      };
+    }
+
+    Promise.all(regencies.map(async (r) => {
+      const res = await fetch(r.file);
+      const gj = await res.json();
+      const layer = L.geoJSON(gj, {
+        style: regencyStyle(r),
+        onEachFeature: (f, lyr) => lyr.bindPopup(`<b>${r.key}</b>`)
+      }).addTo(map);
+      overlays[r.key] = layer;
+      return layer;
+    })).then((layers) => {
+      L.control.layers(baseLayers, overlays).addTo(map);
+      map.fitBounds(L.featureGroup(layers).getBounds());
+    });
+
+    // --- Church Layer ---
+    const churchIcon = L.icon({
+      iconUrl: 'https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png',
+      shadowUrl: 'https://unpkg.com/leaflet@1.9.4/dist/images/marker-shadow.png',
+      iconSize: [25, 41],
+      iconAnchor: [12, 41],
+      popupAnchor: [1, -34],
+      shadowSize: [41, 41]
+    });
+
+    fetch('data/churches.geojson')
+      .then(res => res.json())
+      .then(data => {
+        const clusterGroup = L.markerClusterGroup();
+        const churchLayer = L.geoJSON(data, {
+          pointToLayer: (feature, latlng) => L.marker(latlng, { icon: churchIcon }),
+          onEachFeature: (f, lyr) => {
+            const p = f.properties;
+            lyr.bindPopup(`<b>${p.churchName}</b><br>${p.address}`);
+          }
+        });
+        clusterGroup.addLayer(churchLayer);
+        map.addLayer(clusterGroup);
+
+        overlays['Churches'] = clusterGroup;
+
+        // Count stats
+        const total = data.features.length;
+        const byCity = {};
+        const byDistrict = {};
+        data.features.forEach(f => {
+          const c = f.properties.city || 'Unknown';
+          const d = f.properties.district || 'Unknown';
+          byCity[c] = (byCity[c] || 0) + 1;
+          byDistrict[d] = (byDistrict[d] || 0) + 1;
+        });
+
+        document.getElementById('totalChurches').textContent = total;
+        const cityList = document.getElementById('cityList');
+        const districtList = document.getElementById('districtList');
+
+        Object.entries(byCity).sort().forEach(([k, v]) => {
+          const li = document.createElement('li');
+          li.textContent = `${k}: ${v}`;
+          cityList.appendChild(li);
+        });
+
+        Object.entries(byDistrict).sort().forEach(([k, v]) => {
+          const li = document.createElement('li');
+          li.textContent = `${k}: ${v}`;
+          districtList.appendChild(li);
+        });
+
+        L.control.layers(baseLayers, overlays).addTo(map);
+      })
+      .catch(err => console.error('Error loading churches.geojson:', err));
+
+    // --- Legend ---
+    const legend = document.getElementById('legend');
+    legend.innerHTML = `
+      <strong style="font-weight:700;margin-bottom:6px;">Legend</strong><br>
+      <i style="background:#1b9e77"></i> Jayapura<br>
+      <i style="background:#7570b3"></i> Keerom<br>
+      <i style="background:#d95f02"></i> Sarmi<br>
+      <i style="background:#ff0000"></i> Mamberamo Raya (No Church)<br>
+      <i style="background:#ff3333"></i> Waropen (No Church)<br>
+      <i style="background:#66a61e"></i> Nabire<br>
+      <i style="background:#ff4c4c"></i> Biak Numfor (No Church)<br>
+      <i style="background:#ff6666"></i> Supiori (No Church)<br>
+      <i style="background:#ff8080"></i> Kepulauan Yapen (No Church)<br>
+      <i style="background:url('https://raw.githubusercontent.com/pointhi/leaflet-color-markers/master/img/marker-icon-blue.png') no-repeat center/contain; width:12px; height:18px; display:inline-block;"></i> Church Location
+    `;
+  </script>
+</body>
+</html>

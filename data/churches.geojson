@@ -1,0 +1,1715 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.68802185024407,
+          -2.5752732194085453
+        ]
+      },
+      "properties": {
+        "churchName": "Adonai Entrop",
+        "address": "Jl. Beringin, RT/RW 04/04, Entrop, Jayapura Selatan, Jayapura, Papua",
+        "village": "Entrop",
+        "district": "Jayapura Selatan",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.63768750882488,
+          -2.848871363496539
+        ]
+      },
+      "properties": {
+        "churchName": "Agape - Arso XIII",
+        "address": "Jl. Cendrawasih No. 35A, Arso XIII, RT/RW 003 / 001, Naramben, Skamto (Skanto), Kab. Keerom, Papua",
+        "village": "Naramben",
+        "district": "Skamto",
+        "city": "Kab. Keerom",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.51868724686258,
+          -2.5693454379045684
+        ]
+      },
+      "properties": {
+        "churchName": "Alfa Moria",
+        "address": "Jl. Pasir Felavou Sentani, RT/RW -/-, Hinekombe, Sentani, Kab. Jayapura, Papua",
+        "village": "Hinekombe",
+        "district": "Sentani",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.57996863851042,
+          -2.615123145500052
+        ]
+      },
+      "properties": {
+        "churchName": "Alfa Omega Ayapo",
+        "address": "Kampung Ayapo, RT/RW 001 / 001, Nolokla, Sentani Timur, Kab. Jayapura, Papua",
+        "village": "Nolokla",
+        "district": "Sentani Timur",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.65839008666669,
+          -2.602842589878782
+        ]
+      },
+      "properties": {
+        "churchName": "Alleluia Padang Bulan",
+        "address": "Jl. Haleluya Emerauw No. 2 Belakang Kampus USTJ Padang Bulan, RT/RW 02/02, Hedam, Heram, Kota Jayapura, Papua",
+        "village": "Hedam",
+        "district": "Heram",
+        "city": "Kota Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.70426430908412,
+          -2.8811873527159424
+        ]
+      },
+      "properties": {
+        "churchName": "Anugerah - Arso X",
+        "address": "Jl. Bate, RT/RW -/-, Yaturaharja (Arso 10), Arso, Kab. Keerom, Papua",
+        "village": "Yaturaharja",
+        "district": "Arso",
+        "city": "Kab. Keerom",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.38084604955768,
+          -2.5087136707588904
+        ]
+      },
+      "properties": {
+        "churchName": "Anugerah Kampung Maribu",
+        "address": "Kampung Maribu, RT/RW -/-, -, Sentani Barat, Kab. Jayapura, Papua",
+        "village": "Maribu",
+        "district": "Sentani Barat",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.54970190718657,
+          -2.5826743463061783
+        ]
+      },
+      "properties": {
+        "churchName": "Anugerah Ministry Sentani",
+        "address": "Gedung SKB Jl. Kemiri, RT/RW -/-, Hinekombe, Sentani, Kab. Jayapura, Papua",
+        "village": "Hinekombe",
+        "district": "Sentani",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.45984970908117,
+          -2.5465255414256136
+        ]
+      },
+      "properties": {
+        "churchName": "Apostolic Center",
+        "address": "Jl. Polres, RT/RW -/-, Doyo Baru, Waibu, Kab. Jayapura, Papua",
+        "village": "Doyo Baru",
+        "district": "Waibu",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6420688783942,
+          -2.5864898392819082
+        ]
+      },
+      "properties": {
+        "churchName": "Arauna",
+        "address": "Jl. Kampwolker Perumnas III Waena, RT/RW -/-, Yabansai, Heram, Jayapura, Papua",
+        "village": "Yabansai",
+        "district": "Heram",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.58237368103082,
+          -2.613192261530094
+        ]
+      },
+      "properties": {
+        "churchName": "Ayapo",
+        "address": "Kampung Ayapo, RT/RW 02/03, Ayapo (Itakiwa), Sentani Timur, Kab. Jayapura, Papua",
+        "village": "Ayapo",
+        "district": "Sentani Timur",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.88787356305374,
+          -2.9059802316307697
+        ]
+      },
+      "properties": {
+        "churchName": "Belssing Papua Ministry (BPM) Rajawali Keerom",
+        "address": "Kampung Amyu, RT/RW -/-, Sangke, Arso Timur, Keerom, Papua",
+        "village": "Sangke",
+        "district": "Arso Timur",
+        "city": "Keerom",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1860906802457,
+          -2.5957876160725757
+        ]
+      },
+      "properties": {
+        "churchName": "Betesda Kaitemung",
+        "address": "Kampung Kaitemung, RT/RW -/-, -, Nimboran, Jayapura, Papua",
+        "village": "Kaitemung",
+        "district": "Nimboran",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.65090503606623,
+          -2.5962225230986795
+        ]
+      },
+      "properties": {
+        "churchName": "Betesda Padang Bulan",
+        "address": "Perumnas IV Padang Bulan, RT/RW -/-, Hedam, Heram, Jayapura, Papua",
+        "village": "Hedam",
+        "district": "Heram",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.19380607839443,
+          -2.605043844115124
+        ]
+      },
+      "properties": {
+        "churchName": "Betesda Sarmai Bawah",
+        "address": "Kampung Sarmai Bawah, RT/RW -/-, -, Nambluong, Jayapura, Papua",
+        "village": "Sarmai Bawah",
+        "district": "Nambluong",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6230785225756,
+          -2.7789401593069103
+        ]
+      },
+      "properties": {
+        "churchName": "Betlehem - Arso III",
+        "address": "Jl. Gurame Arson III, RT/RW 09/03, Jaifuri, Skamto (Skanto), Kab. Keerom, Papua",
+        "village": "Jaifuri",
+        "district": "Skamto",
+        "city": "Kab. Keerom",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.52643614354963,
+          -2.562309421860021
+        ]
+      },
+      "properties": {
+        "churchName": "Bless Papua Ministry (BPN) - Sentani",
+        "address": "Jl. Dunlop, Hawaii - Sentani, RT/RW 03/01, Sentani Kota, Sentani, Kab. Jayapura, Papua",
+        "village": "Sentani Kota",
+        "district": "Sentani",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.66072200626954,
+          -2.604490764336496
+        ]
+      },
+      "properties": {
+        "churchName": "Blessing Papua Ministry (BPM) - Abepura",
+        "address": "Jl. Raya Abepura-Sentani, RT/RW -/-, Kota Baru, Abepura, Kab. Jayapura, Papua",
+        "village": "Kota Baru",
+        "district": "Abepura",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.70670011933464,
+          -2.555576222124424
+        ]
+      },
+      "properties": {
+        "churchName": "Blessing Papua Ministry (BPM) - Polimak",
+        "address": "Jl. Mana Lagi No.53 Polimak 2, RT/RW -/-, Ardipura, Jayapura Selatan, Jayapura, Papua",
+        "village": "Ardipura",
+        "district": "Jayapura Selatan",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.75248614579442,
+          -2.37915564342014
+        ]
+      },
+      "properties": {
+        "churchName": "Bukit Moria Mawesdai",
+        "address": "Kampung Mawesday, RT/RW 01/01, -, Bonggo Timur, Kab. Sarmi, Papua",
+        "village": "Mawesday",
+        "district": "Bonggo Timur",
+        "city": "Kab. Sarmi",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.18756125141007,
+          -2.6216393628325076
+        ]
+      },
+      "properties": {
+        "churchName": "Bukit Zaitun Sarmai Atas",
+        "address": "Kampung Sarmai Atas, RT/RW -/-, -, Nambluong, Jayapura, Papua",
+        "village": "Sarmai Atas",
+        "district": "Nambluong",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.86580700908175,
+          -2.6208744450973414
+        ]
+      },
+      "properties": {
+        "churchName": "Bukit Zaitun Skouw",
+        "address": "Skou Mabo, RT/RW -/-, -, Muara Tami, Jayapura, Papua",
+        "village": "Skou Mabo",
+        "district": "Muara Tami",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.63618506490207,
+          -2.595082344590325
+        ]
+      },
+      "properties": {
+        "churchName": "Celebration Seventh",
+        "address": "Jl. Ondikleo Perumnas I, RT/RW 03/09, Waena, Heram, Jayapura, Papua",
+        "village": "Waena",
+        "district": "Heram",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.65040216755307,
+          -2.597318686492459
+        ]
+      },
+      "properties": {
+        "churchName": "Cempaka",
+        "address": "Perumnas IV Padang Bulan, RT/RW -/-, Hedam, Heram, Jayapura, Papua",
+        "village": "Hedam",
+        "district": "Heram",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.70345356305012,
+          -2.5408607779758356
+        ]
+      },
+      "properties": {
+        "churchName": "City Of Praise (COP) - Jayapura",
+        "address": "Hotel Aston Jayapura Jl. Percetakan Negara No.50 - 58, RT/RW -/-, Gurabesi, Jayapura Utara, Jayapura, Papua",
+        "village": "Gurabesi",
+        "district": "Jayapura Utara",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.70359672695497,
+          -2.55755313445314
+        ]
+      },
+      "properties": {
+        "churchName": "City Of Victory Polimak",
+        "address": "Jl. Ardipura II Gg. Anggrek No. 18, RT/RW -/-, Ardipura, Jayapura Selatan, Jayapura, Papua",
+        "village": "Ardipura",
+        "district": "Jayapura Selatan",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5241300028077,
+          -2.5682762599752147
+        ]
+      },
+      "properties": {
+        "churchName": "City Transformation Ministry Sentani",
+        "address": "Jl. Youmakhe Phara Sentani, RT/RW -/-, Dobonsolo, Sentani, Kab. Jayapura, Papua",
+        "village": "Dobonsolo",
+        "district": "Sentani",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6934895790795,
+          -2.566710773346806
+        ]
+      },
+      "properties": {
+        "churchName": "Dock 4 Center",
+        "address": "Jl. Rumsram Bucend VII, RT/RW -/-, Entrop, Jayapura Selatan, Jayapura, Papua",
+        "village": "Entrop",
+        "district": "Jayapura Selatan",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7181351244255,
+          -2.632715994589053
+        ]
+      },
+      "properties": {
+        "churchName": "Ebenhaezer Nafri",
+        "address": "Jl. Yanso No.8 Kampung Nafri, RT/RW -/-, Nafri, Abepura, Jayapura, Papua",
+        "village": "Nafri",
+        "district": "Abepura",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.7524546360643,
+          -2.3802120647487177
+        ]
+      },
+      "properties": {
+        "churchName": "Ebenhaizer - Toaren Mawesday",
+        "address": "Kampung Mawesday, RT/RW 003/001, -, Bonggo Timur, Kab. Sarmi, Papua",
+        "village": "Mawesday",
+        "district": "Bonggo Timur",
+        "city": "Kab. Sarmi",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.49331425140952,
+          -2.5674614070690835
+        ]
+      },
+      "properties": {
+        "churchName": "Ecclesia Sentani",
+        "address": "Komplek BTN Sky Line Moria Jl. Youmakhe, RT/RW -/-, Hinekombe, Sentani, Kab. Jayapura, Papua",
+        "village": "Hinekombe",
+        "district": "Sentani",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5819535510806,
+          -2.76481756100955
+        ]
+      },
+      "properties": {
+        "churchName": "Efata - Arso IV",
+        "address": "Jalur VII A No. 653, RT/RW 014 / 004, Arsopura, Skamto (Skanto), Kab. Keerom, Papua",
+        "village": "Arsopura",
+        "district": "Skamto",
+        "city": "Kab. Keerom",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.69236953605918,
+          -2.614209958600561
+        ]
+      },
+      "properties": {
+        "churchName": "Efata Tanah Hitam",
+        "address": "Jl. Raya Abepantai Tanah Hitam, RT/RW 04/03, Asano, Abepura, Kota Jayapura, Papua",
+        "village": "Asano",
+        "district": "Abepura",
+        "city": "Kota Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6847671649022,
+          -2.613996820634826
+        ]
+      },
+      "properties": {
+        "churchName": "Eklesia Glory",
+        "address": "Jl. Pasar Baru Tanah Hitam, RT/RW -/-, Asano, Abepura, Kota Jayapura, Papua",
+        "village": "Asano",
+        "district": "Abepura",
+        "city": "Kota Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.76790026674743,
+          -1.895092360269257
+        ]
+      },
+      "properties": {
+        "churchName": "Eklesia Sawar",
+        "address": "Jl. Inpres Sarmi, RT/RW 04/01, Mararena, Sarmi, Kab. Sarmi, Papua",
+        "village": "Mararena",
+        "district": "Sarmi",
+        "city": "Kab. Sarmi",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6993755724315,
+          -2.5651424644418155
+        ]
+      },
+      "properties": {
+        "churchName": "El Bethel - Jayapura",
+        "address": "Jl. Delima, RT/RW -/-, Entrop, Jayapura Selatan, Jayapura, Papua",
+        "village": "Entrop",
+        "district": "Jayapura Selatan",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5102413496117,
+          -2.5637338752196768
+        ]
+      },
+      "properties": {
+        "churchName": "El-Shaddai Sentani",
+        "address": "Jl. Caravan, RT/RW 01/04, Sentani Kota, Sentani, Kab. Jayapura, Papua",
+        "village": "Sentani Kota",
+        "district": "Sentani",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.33718898089035,
+          -2.182614039912345
+        ]
+      },
+      "properties": {
+        "churchName": "Elim - Ansudu 2",
+        "address": "Kampung Ansudu II, RT/RW 02/01, -, Pantai Timur, Kab. Sarmi, Papua",
+        "village": "Ansudu",
+        "district": "Pantai Timur",
+        "city": "Kab. Sarmi",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.56766106924925,
+          -2.5835099595004993
+        ]
+      },
+      "properties": {
+        "churchName": "Elim Nendali",
+        "address": "Kampung Nendali, RT/RW -/-, -, Sentani Timur, Kab. Jayapura, Papua",
+        "village": "Nendali",
+        "district": "Sentani Timur",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.67927269256492,
+          -2.6158017636422755
+        ]
+      },
+      "properties": {
+        "churchName": "Family Blessing Jayapura",
+        "address": "Hotel Suni Abepura Jl. Baru Pasar Lama, RT/RW -/-, Wai Mhorock, Abepura, Jayapura, Papua",
+        "village": "Wai Mhorock",
+        "district": "Abepura",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6530757006122,
+          -2.867763542548734
+        ]
+      },
+      "properties": {
+        "churchName": "Filadelfia - Arso XIV",
+        "address": "Kampung Walma, RT/RW -/-, -, Skamto (Skanto), Kab. Keerom, Papua",
+        "village": "Walma",
+        "district": "Skamto",
+        "city": "Kab. Keerom",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.704809684626,
+          -2.574077763269265
+        ]
+      },
+      "properties": {
+        "churchName": "Filadelfia Hamadi",
+        "address": "Jl. Baru Tobati Pantai Hamadi, RT/RW -/-, Hamadi, Jayapura Selatan, Jayapura, Papua",
+        "village": "Hamadi",
+        "district": "Jayapura Selatan",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.36504188817773,
+          -2.6577476274000937
+        ]
+      },
+      "properties": {
+        "churchName": "Gembala Baik Sabeyab",
+        "address": "Sabeyab, RT/RW -/-, -, Kemtuk, Kab. Jayapura, Papua",
+        "village": "Sabeyab",
+        "district": "Kemtuk",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.67795542369925,
+          -2.6037816123397177
+        ]
+      },
+      "properties": {
+        "churchName": "Golden Gate Papua",
+        "address": "Jl. Baru Kotaraja, RT/RW -/-, Vim, Abepura, Jayapura, Papua",
+        "village": "Vim",
+        "district": "Abepura",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.66780550972888,
+          -2.6060064184122598
+        ]
+      },
+      "properties": {
+        "churchName": "Gunung Kemuliaan",
+        "address": "Jl. Woroth Kali Acai Kotaraja, RT/RW -/-, Vim, Abepura, Jayapura, Papua",
+        "village": "Vim",
+        "district": "Abepura",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.53669081979342,
+          -2.5780089211502024
+        ]
+      },
+      "properties": {
+        "churchName": "Hisop Makheng",
+        "address": "Jl. SAR Hawai, RT/RW -/-, -, Sentani, Kab. Jayapura, Papua",
+        "village": "Sentani Kota",
+        "district": "Sentani",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.52664865249494,
+          -2.5470590704093574
+        ]
+      },
+      "properties": {
+        "churchName": "Hosana",
+        "address": "Jl. Baru Lingkar Utara Sentani, RT/RW -/-, -, -, Kab. Jayapura, Papua",
+        "village": "Sentani Kota",
+        "district": "Sentani",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.18478106256384,
+          -2.599119486421648
+        ]
+      },
+      "properties": {
+        "churchName": "Imanuel Kaitemung",
+        "address": "Kampung Kaitemung, RT/RW -/-, -, Nimboran, Jayapura, Papua",
+        "village": "Kaitemung",
+        "district": "Nimboran",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.50800979437537,
+          -2.5844581030931493
+        ]
+      },
+      "properties": {
+        "churchName": "Imeria",
+        "address": "Jl. Sosial, RT/RW -/-, Dobonsolo, Sentani, Kab. Jayapura, Papua",
+        "village": "Dobonsolo",
+        "district": "Sentani",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.80184876740066,
+          -2.6705881051926568
+        ]
+      },
+      "properties": {
+        "churchName": "Kalam Hidup",
+        "address": "Jl. Merauke Koya Barat, RT/RW 04/04, Koya Barat, Muara Tami, Kota Jayapura, Papua",
+        "village": "Koya Barat",
+        "district": "Muara Tami",
+        "city": "Kota Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.68768104831253,
+          -2.5782701399863988
+        ]
+      },
+      "properties": {
+        "churchName": "Kanaan Baru Skyline",
+        "address": "Jl. Raya Entrop Abepura, RT/RW -/-, Entrop, Jayapura Selatan, Jayapura, Papua",
+        "village": "Entrop",
+        "district": "Jayapura Selatan",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.703137225071,
+          -2.5413904769318663
+        ]
+      },
+      "properties": {
+        "churchName": "Kanaan Bukit",
+        "address": "Jl. Percetakan (Belakang Toko Surya), RT/RW 005 / 002, Gurabesi, Jayapura Utara, Jayapura, Papua",
+        "village": "Gurabesi",
+        "district": "Jayapura Utara",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.67131164041368,
+          -2.604977731141293
+        ]
+      },
+      "properties": {
+        "churchName": "Keluarga Perjanjian Baru",
+        "address": "Jl. Raya Abepura (Samping Umel Mandiri), RT/RW -/-, Vim, Abepura, Jayapura, Papua",
+        "village": "Vim",
+        "district": "Abepura",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.67117856242254,
+          -2.5999482727762153
+        ]
+      },
+      "properties": {
+        "churchName": "King City",
+        "address": "Hotel Rafa Kota Raja, RT/RW -/-, Vim, Abepura, Jayapura, Papua",
+        "village": "Vim",
+        "district": "Abepura",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.70109059442174,
+          -2.5629481344774105
+        ]
+      },
+      "properties": {
+        "churchName": "Kingdom Of God - Bucend Jayappura",
+        "address": "Ardipura, RT/RW -/-, -, Jayapura Selatan, Jayapura, Papua",
+        "village": "Ardipura",
+        "district": "Jayapura Selatan",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.67344546740003,
+          -2.602912984175718
+        ]
+      },
+      "properties": {
+        "churchName": "Kingdom Worship Family Church",
+        "address": "Aula Gedung Dinas Kesehatan Prov. Papua, RT/RW -/-, Kota Baru, Abepura, Jayapura, Papua",
+        "village": "Kota Baru",
+        "district": "Abepura",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.65963068089332,
+          -2.6131654614695523
+        ]
+      },
+      "properties": {
+        "churchName": "Kristus Gembala Abepura",
+        "address": "Jl. Pipa Air Uncen Atas, RT/RW 04/03, Kotabaru, Abepura, Jayapura, Papua",
+        "village": "Kotabaru",
+        "district": "Abepura",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.16446032322207,
+          -2.59529894076978
+        ]
+      },
+      "properties": {
+        "churchName": "Kristus Gembala Genyem",
+        "address": "Kampung Genyem Besar, RT/RW -/-, -, Nimboran, Jayapura, Papua",
+        "village": "Genyem Besar",
+        "district": "Nimboran",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.57171225390672,
+          -2.5810410819750684
+        ]
+      },
+      "properties": {
+        "churchName": "Kristus Raja Kampung Harapan",
+        "address": "Kampung Harapan, RT/RW 02/04, Nolokla, Sentani Timur, Kab. Jayapura, Papua",
+        "village": "Nolokla",
+        "district": "Sentani Timur",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.82429009808547,
+          -2.6763887203929295
+        ]
+      },
+      "properties": {
+        "churchName": "Kristus Raja Koya Barat",
+        "address": "Jl. Pemancingan Permata Hijau Swakarsa, RT/RW 02/07, Koya Barat, Muara Tami, Kota Jayapura, Papua",
+        "village": "Koya Barat",
+        "district": "Muara Tami",
+        "city": "Kota Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          138.7514048962308,
+          -1.8801706524467694
+        ]
+      },
+      "properties": {
+        "churchName": "Lahai-Roi Mararena",
+        "address": "Jl. Gang GBI Lahai-Roi Mararena, RT/RW -/-, Mararena, Sarmi, Kab. Sarmi, Papua",
+        "village": "Mararena",
+        "district": "Sarmi",
+        "city": "Kab. Sarmi",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7027944340358,
+          -2.5672715038206912
+        ]
+      },
+      "properties": {
+        "churchName": "Light Ministry Entrop",
+        "address": "Ruko Prudetial Kelapa Dua , RT/RW -/-, Entrop, Jayapura Selatan, Jayapura, Papua",
+        "village": "Entrop",
+        "district": "Jayapura Selatan",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.69721413912043,
+          -2.56329456767198
+        ]
+      },
+      "properties": {
+        "churchName": "Maranatha Entrop",
+        "address": "Jl. Raya Abepura Komp. Perumahan Kodim Entrop, RT/RW -/-, Entrop, Jayapura Selatan, Jayapura, Papua",
+        "village": "Entrop",
+        "district": "Jayapura Selatan",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.64631451311095,
+          -2.5812822908540523
+        ]
+      },
+      "properties": {
+        "churchName": "Masa Depan Cerah",
+        "address": "Jl. Mambruk Bukit Perumnas 3 Waena, RT/RW 02/07, Yabansai, Heram, Jayapura, Papua",
+        "village": "Yabansai",
+        "district": "Heram",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.77311286925186,
+          -2.953647061630385
+        ]
+      },
+      "properties": {
+        "churchName": "Mawar Saron - PIR II",
+        "address": "Emplusment PTPN II Arso Tami, RT/RW -/-, Yamta (PIR 2), Arso, Kab. Keerom, Papua",
+        "village": "Yamta",
+        "district": "Arso",
+        "city": "Kab. Keerom",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.69254073671505,
+          -2.569899433491704
+        ]
+      },
+      "properties": {
+        "churchName": "Mawar Saron Entrop",
+        "address": "Jl. KPR Jaya Asri No. 01, RT/RW 01/09, Entrop, Jayapura Selatan, Jayapura, Papua",
+        "village": "Entrop",
+        "district": "Jayapura Selatan",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.75421184665012,
+          -2.8932972797583654
+        ]
+      },
+      "properties": {
+        "churchName": "Menza Christie",
+        "address": "Jl. Merpati, RT/RW 04/02, Yuwanain (Arso 2), Arso, Kab. Keerom, Papua",
+        "village": "Yuwanain",
+        "district": "Arso",
+        "city": "Kab. Keerom",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.66781476813154,
+          -2.6085945194344795
+        ]
+      },
+      "properties": {
+        "churchName": "Narwastu",
+        "address": "RM Maranli Kali Acai (Depan Agro), RT/RW -/-, Vim, Abepura, Jayapura, Papua",
+        "village": "Vim",
+        "district": "Abepura",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.70216896239992,
+          -2.5420415713702105
+        ]
+      },
+      "properties": {
+        "churchName": "Patmos Kloofkamp",
+        "address": "Jl. Jend. A. Yani No. 78 Kloofkamp, RT/RW 001/005, Gurabesi, Jayapura Utara, Jayapura, Papua",
+        "village": "Gurabesi",
+        "district": "Jayapura Utara",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.50535151340407,
+          -2.562787442536115
+        ]
+      },
+      "properties": {
+        "churchName": "Pelita Kasih",
+        "address": "Hotel @Home Jl. Raya Tanah Hitam Abepantai, RT/RW -/-, Asano, Abepura, Kota Jayapura, Papua",
+        "village": "Asano",
+        "district": "Abepura",
+        "city": "Kota Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.52862328491292,
+          -2.567345516223137
+        ]
+      },
+      "properties": {
+        "churchName": "Pelita Kasih Sentani",
+        "address": "Jl. Raya Hawai, RT/RW -/-, Sentani Kota, Sentani, Kab. Jayapura, Papua",
+        "village": "Sentani Kota",
+        "district": "Sentani",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.61342846677647,
+          -2.5769321751174337
+        ]
+      },
+      "properties": {
+        "churchName": "Pengharapan Sentani",
+        "address": "Komp. Cemara Asei Kecil, RT/RW -/-, -, Sentani Timur, Kab. Jayapura, Papua",
+        "village": "Asei Kecil",
+        "district": "Sentani Timur",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.67372474835926,
+          -2.615579894202188
+        ]
+      },
+      "properties": {
+        "churchName": "Petra Kamp Key",
+        "address": "Belakang SPBU Kamp Key, RT/RW 01/10, Awiyo, Abepura, Kota Jayapura, Papua",
+        "village": "Awiyo",
+        "district": "Abepura",
+        "city": "Kota Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.1723521232394,
+          -2.5887552202839124
+        ]
+      },
+      "properties": {
+        "churchName": "Petrus Genyem",
+        "address": "Jl. Raya Sarmai Krang, RT/RW 001/001, -, Nimboran, Jayapura, Papua",
+        "village": "Genyem",
+        "district": "Nimboran",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.52851859808473,
+          -2.5665104624506503
+        ]
+      },
+      "properties": {
+        "churchName": "Pondok Kemuliaan Sentani",
+        "address": "Jl. Koramil Hawaii, RT/RW -/-, Sentani Kota, Sentani, Kab. Jayapura, Papua",
+        "village": "Sentani Kota",
+        "district": "Sentani",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.66225215575605,
+          -2.6113977257998355
+        ]
+      },
+      "properties": {
+        "churchName": "Pondok Pemulihan Abepura",
+        "address": "Jl. Netaar No. 5, RT/RW 003 / 009, Kota Baru, Abepura, Jayapura, Papua",
+        "village": "Kota Baru",
+        "district": "Abepura",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6479938699489,
+          -2.919271134575734
+        ]
+      },
+      "properties": {
+        "churchName": "Pondok Pemulihan Arso 2",
+        "address": "Dusun Wapsi Arso 2 Jalur 5, RT/RW -/-, Yuwanain, Arso, Kab. Keerom, Papua",
+        "village": "Yuwanain",
+        "district": "Arso",
+        "city": "Kab. Keerom",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.45525368458667,
+          -2.530713552075405
+        ]
+      },
+      "properties": {
+        "churchName": "Pondok Pemulihan Bambar Doyo Baru",
+        "address": "Desa Bambar - Doyo Baru, RT/RW -/-, -, Waibu, Jayapura, Papua",
+        "village": "Doyo Baru",
+        "district": "Waibu",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.52734612323147,
+          -2.5686457111200096
+        ]
+      },
+      "properties": {
+        "churchName": "Pondok Pemulihan Sentani",
+        "address": "Jl. Koramil Hawaii, RT/RW -/-, Sentani Kota, Sentani, Kab. Jayapura, Papua",
+        "village": "Sentani Kota",
+        "district": "Sentani",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7014875618603,
+          -2.5645812304782236
+        ]
+      },
+      "properties": {
+        "churchName": "Rock Entrop",
+        "address": "Jl. Muspacgo - Jl. Klp. 2, RT/RW -/-, Entrop, Jayapura Selatan, Jayapura, Papua",
+        "village": "Entrop",
+        "district": "Jayapura Selatan",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.5306027655506,
+          -2.569345346175921
+        ]
+      },
+      "properties": {
+        "churchName": "ROCK Sentani",
+        "address": "Jl. Raya Sentani - Waena, RT/RW -/-, -, Sentani, Kab. Jayapura, Papua",
+        "village": "Sentani Kota",
+        "district": "Sentani",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.69218750787942,
+          -2.576007645485359
+        ]
+      },
+      "properties": {
+        "churchName": "Rumah Doa Entrop",
+        "address": "Jl. Klinik Hewan Gg. Anggur, RT/RW 01/05, Entrop, Jayapura Selatan, Jayapura, Papua",
+        "village": "Entrop",
+        "district": "Jayapura Selatan",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.74360546936393,
+          -2.8316236943530453
+        ]
+      },
+      "properties": {
+        "churchName": "Sangkakala - Arso VI",
+        "address": "Jl. Tangkuban Perahu, RT/RW 01/04, Yammua (Yamua/Arso 6), Arso Barat, Kab. Keerom, Papua",
+        "village": "Yammua",
+        "district": "Arso Barat",
+        "city": "Kab. Keerom",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.38483763115588,
+          -2.513434870311271
+        ]
+      },
+      "properties": {
+        "churchName": "Shine of Glory Waibron",
+        "address": "Transpol Waibron Jl. Raya Sentani - Depapre, RT/RW -/-, -, -, Kab. Jayapura, Papua",
+        "village": "Waibron",
+        "district": "Sentani Barat",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.21753431157828,
+          -2.6052787069664896
+        ]
+      },
+      "properties": {
+        "churchName": "Sion Besum",
+        "address": "Jl. Raya Kwansu - Besum, RT/RW 03/01, Besum, Nimboran Timur (Nambluong), Jayapura, Papua",
+        "village": "Besum",
+        "district": "Nimboran Timur",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.53218352507125,
+          -2.6191914448162685
+        ]
+      },
+      "properties": {
+        "churchName": "Sion Putali",
+        "address": "Putali (Kalio), RT/RW -/-, Ebungfa, Ebungfau (Ebungfa), Jayapura, Papua",
+        "village": "Ebungfa",
+        "district": "Ebungfau",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.67142730972893,
+          -2.603170842098854
+        ]
+      },
+      "properties": {
+        "churchName": "Solagratia Kota Raja",
+        "address": "Jl. Silva Griya No.7 Kota Raja, RT/RW 02/12, Vim, Abepura, Jayapura, Papua",
+        "village": "Vim",
+        "district": "Abepura",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.70256,
+          -2.627397
+        ]
+      },
+      "properties": {
+        "churchName": "Sungai Yordan",
+        "address": "Jl. Abepantai (Depan SMPN 4) - Kamp. Nafri, RT/RW -/-, Asano, Abepura, Kota Jayapura, Papua",
+        "village": "Asano",
+        "district": "Abepura",
+        "city": "Kota Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.67875066924927,
+          -2.5952931803078507
+        ]
+      },
+      "properties": {
+        "churchName": "Talitakum Kotaraja",
+        "address": "Jl. Jeruk Nipis, RT/RW 002 / 001, Wahno, Abepura, Jayapura, Papua",
+        "village": "Wahno",
+        "district": "Abepura",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.7162351790437,
+          -2.5472146874395
+        ]
+      },
+      "properties": {
+        "churchName": "Tiberias Weref",
+        "address": "Jl. Koti No.6 Weref, RT/RW -/-, Argapura, Jayapura Selatan, Jayapura, Papua",
+        "village": "Argapura",
+        "district": "Jayapura Selatan",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.47015609808452,
+          -2.5411335134504367
+        ]
+      },
+      "properties": {
+        "churchName": "Umat Pemenang Sentani",
+        "address": "Jl. Poros Sentani - Depapre, RT/RW 01/01, Doyo Baru, Waibu, Kab. Jayapura, Papua",
+        "village": "Doyo Baru",
+        "district": "Waibu",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6512625134272,
+          -2.59941274146384
+        ]
+      },
+      "properties": {
+        "churchName": "Victory Perumnas IV",
+        "address": "Perumnas IV Padang Bulan, RT/RW 002/003, Hedam, Heram, Jayapura, Papua",
+        "village": "Hedam",
+        "district": "Heram",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.285855407901,
+          -2.599446241533436
+        ]
+      },
+      "properties": {
+        "churchName": "Yehezkhiel Meikari",
+        "address": "Kampung Meikari, RT/RW -/-, -, Kemtuk, Jayapura, Papua",
+        "village": "Meikari",
+        "district": "Kemtuk",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.40204033115648,
+          -2.5151282155472274
+        ]
+      },
+      "properties": {
+        "churchName": "Yesus Gembala Dosai",
+        "address": "Jl. Sentani - Depapre Kampung Dosai, RT/RW 03/03, Dosay (Dosai), Sentani Barat, Kab. Jayapura, Papua",
+        "village": "Dosay",
+        "district": "Sentani Barat",
+        "city": "Kab. Jayapura",
+        "province": "Papua"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          140.6317879808931,
+          -2.599144045660008
+        ]
+      },
+      "properties": {
+        "churchName": "Yoka Waena",
+        "address": "Jl. Maranataha No. 1, RT/RW 001/001, Yoka, Heram, Jayapura, Papua",
+        "village": "Yoka",
+        "district": "Heram",
+        "city": "Jayapura",
+        "province": "Papua"
+      }
+    }
+  ]
+}
